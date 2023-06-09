@@ -1,0 +1,8 @@
+Package: JeffsLittlePackage
+Type: Package
+Title: Jeff's Automatic Package Loader
+Version: 1.0
+Author: Jeff
+Maintainer: Jeff <jeff.grayum@gmail.com>
+Description: This package automatically installs and loads R packages.
+License: GPL-2
